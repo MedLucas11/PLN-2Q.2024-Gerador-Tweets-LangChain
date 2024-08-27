@@ -1,8 +1,8 @@
 # 2024.Q2-PLN
 
 # Processamento de Linguagem Natural [2024.Q2]
-Lucas Medeiros da Silva
-George Salvino de Souza Junior
+Lucas Medeiros da Silva |
+George Salvino de Souza Junior |
 UFABC
 
 ### `Seminário: Gerador de tweets utilizando LLMs e Langchain`
